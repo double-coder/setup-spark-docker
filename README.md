@@ -1,2 +1,2 @@
-# Personal setup to learn data engineering locally. ヾ(•ω•`)o
+# Personal setup to learn data engineering locally ヾ(•ω•`)o
 
