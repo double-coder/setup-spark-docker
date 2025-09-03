@@ -1,2 +1,2 @@
-# Personal setup to learn data engineering locally. ![Uploading BugsLifeABugsLifeGIF.gif…]()
+# Personal setup to learn data engineering locally. ヾ(•ω•`)o
 
