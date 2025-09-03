@@ -1,0 +1,7 @@
+./notebooks/.ipynb_checkpoints
+./.vscode
+./spark-data
+.env
+__pycache__
+*.pyc
+.gitignore
